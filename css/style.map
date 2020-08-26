@@ -1,0 +1,16 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass",
+		"../sass/_colors.sass",
+		"../sass/_interface.sass"
+	],
+	"sourcesContent": [
+		"@import 'colors';\n@import 'interface';\n\nbody {\n\tbackground-color:#red {} }\n\n.header-item {\n\tul {\n\t color:#548212 {} }\n\tp {\n\t margin-left: 40px; } }\n",
+		"",
+		"_interface.sass {}\n"
+	],
+	"names": [],
+	"mappings": ";AAGA,AAAA,IAAI,CAAC;EACJ,gBAAgB,EAAC,IAAI;CAAK;;;AAE3B,AACC,YADW,CACX,EAAE,CAAC;EACF,KAAK,EAAC,OAAO;CAAK;;;AAFpB,AAGC,YAHW,CAGX,CAAC,CAAC;EACD,WAAW,EAAE,IAAI;CAAG"
+}
